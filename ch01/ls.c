@@ -3,7 +3,6 @@
 
 int main(int argc, char* argv[]) {
     DIR *dp;
-    test for fail.
     struct dirent *dirp;
 
     if (argc != 2)
